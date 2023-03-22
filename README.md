@@ -2,7 +2,7 @@
 
 ### <div align="center">I'm Mirshad, a full-time Full Stack developer 👨‍💻 working hybridly since 2016 🚀</div>
 
-- 😜 Ex calls me Abu. Thanks for dropping by!
+- 😜 Ex calls me Miri. Thanks for dropping by!
 
 - 🌱 I’m currently learning Python and Next.js.
 
